@@ -1,0 +1,730 @@
+{
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "x2-Tzh_jQd2JRaSK05xGvAdX_7o",
+      "id": "PL9tjqljCWvB1cIZAHpvN7Bp5tqgdg5s2B",
+      "snippet": {
+        "publishedAt": "2021-08-22T14:13:55Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "SOM DE RELAXAR E ACALMAR A MENTE",
+        "description": "SOM DE NATUREZA RELAXAR E ACALMAR A MENTE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wz-TbVuRGv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wz-TbVuRGv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wz-TbVuRGv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wz-TbVuRGv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wz-TbVuRGv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "SOM DE RELAXAR E ACALMAR A MENTE",
+          "description": "SOM DE NATUREZA RELAXAR E ACALMAR A MENTE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rqE_Diqlhd0AYmgHR-iEtWko7Gs",
+      "id": "PL9tjqljCWvB0oMXMcAh_FHuc6uOY4dyhG",
+      "snippet": {
+        "publishedAt": "2021-05-23T12:50:21Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PgDuQBg8mT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PgDuQBg8mT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PgDuQBg8mT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PgDuQBg8mT0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PgDuQBg8mT0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Shorts",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "SLjxr5OUwOciBmmZKKfhSC59iHQ",
+      "id": "PL9tjqljCWvB2qX0sw5GL0AV1Zojd0YfRP",
+      "snippet": {
+        "publishedAt": "2020-04-18T17:22:02Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "VEJA COMO CRIAR APLICATIVO WEB RADIO EM MULTIPLATAFORMA COM IONIC 4",
+        "description": "VEJA COMO CRIAR APLICATIVO WEB RADIO EM MULTIPLATAFORMA COM IONIC 4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vhJCiSdDmFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vhJCiSdDmFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vhJCiSdDmFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vhJCiSdDmFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vhJCiSdDmFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "VEJA COMO CRIAR APLICATIVO WEB RADIO EM MULTIPLATAFORMA COM IONIC 4",
+          "description": "VEJA COMO CRIAR APLICATIVO WEB RADIO EM MULTIPLATAFORMA COM IONIC 4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "pqcX6C6yUjGhiUoNilYpMxFzfN8",
+      "id": "PL9tjqljCWvB27UAMrGFdhg8OQzm2ijgaq",
+      "snippet": {
+        "publishedAt": "2019-05-22T16:15:20Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Kodular.io",
+        "description": "Kodular Aplicativos Developer Davidsonbpe https://davidsonbpe.blogspot.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1JnRoVboaz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1JnRoVboaz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1JnRoVboaz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1JnRoVboaz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1JnRoVboaz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Kodular.io",
+          "description": "Kodular Aplicativos Developer Davidsonbpe https://davidsonbpe.blogspot.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ji8zn6GArm7XJa1DP3mbiVCutyc",
+      "id": "PL9tjqljCWvB15VOyHEKY9odqbY78n1Bl8",
+      "snippet": {
+        "publishedAt": "2018-10-20T17:35:47Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Ionic Framework",
+        "description": "Crie aplicativos incríveis para dispositivos móveis com Ionic Framework\n\nTutoriais Completo :  https://davidsonbpe.blogspot.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GluV_7IukYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GluV_7IukYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GluV_7IukYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GluV_7IukYA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GluV_7IukYA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Ionic Framework",
+          "description": "Crie aplicativos incríveis para dispositivos móveis com Ionic Framework\n\nTutoriais Completo :  https://davidsonbpe.blogspot.com/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "7-NrkwYSKxMWsPTbjqDXVgVxNPY",
+      "id": "PL9tjqljCWvB11EHqZGXSqXEWa1H1GtlsC",
+      "snippet": {
+        "publishedAt": "2017-06-26T21:50:38Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Google Maps Aplicativos",
+        "description": "Aplicativos do Google Maps Mobile : Android, iOS, Windows Phone, Web e desktop.\nDeveloper Davidsonbpe https://davidsonbpe.blogspot.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Google Maps Aplicativos",
+          "description": "Aplicativos do Google Maps Mobile : Android, iOS, Windows Phone, Web e desktop.\nDeveloper Davidsonbpe https://davidsonbpe.blogspot.com/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5pwMNxqSIFYBzYgn5MS45SAXx8w",
+      "id": "PL9tjqljCWvB3C9UdxW13UckxJ2JtAPyvW",
+      "snippet": {
+        "publishedAt": "2017-05-27T22:16:29Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Aplicativos de Rádio Mobile",
+        "description": "Aplicativos de Rádio Mobile : Android, iOS, Windows Phone, Web e desktop. Developer Davidsonbpe https://davidsonbpe.blogspot.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Aplicativos de Rádio Mobile",
+          "description": "Aplicativos de Rádio Mobile : Android, iOS, Windows Phone, Web e desktop. Developer Davidsonbpe https://davidsonbpe.blogspot.com/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LQC-EDjU2rA9i5TKdScFxW5IPwA",
+      "id": "PL9tjqljCWvB3dq2TRq6BU0V1ySeO3Ync6",
+      "snippet": {
+        "publishedAt": "2017-04-12T15:44:54Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Thunkable",
+        "description": "Thunkable Aplicativos Developer Davidsonbpe https://davidsonbpe.blogspot.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4qT_GcgL_rI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Thunkable",
+          "description": "Thunkable Aplicativos Developer Davidsonbpe https://davidsonbpe.blogspot.com/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Fg-mvHobMFdxFa_t8OiAACqqugI",
+      "id": "PL9tjqljCWvB3otQh9Z9zolwLXy7CiYxfn",
+      "snippet": {
+        "publishedAt": "2017-04-12T15:27:29Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "MIT App Inventor",
+        "description": "MIT App Inventor Aplicativos  Developer Davidsonbpe https://davidsonbpe.blogspot.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qaR8tQaid_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qaR8tQaid_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qaR8tQaid_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qaR8tQaid_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qaR8tQaid_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "MIT App Inventor",
+          "description": "MIT App Inventor Aplicativos  Developer Davidsonbpe https://davidsonbpe.blogspot.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "olEX9AD1-sJwGwS-rsQG91cMt98",
+      "id": "PL9tjqljCWvB1LvlQ_ZZVuW8G14FPjHGtq",
+      "snippet": {
+        "publishedAt": "2017-04-12T15:15:22Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Aplicativo Nativos em Html5-css-js",
+        "description": "Aplicativo Nativos em Html5-css-js Developer Davidsonbpe https://davidsonbpe.blogspot.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Aplicativo Nativos em Html5-css-js",
+          "description": "Aplicativo Nativos em Html5-css-js Developer Davidsonbpe https://davidsonbpe.blogspot.com/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JBE-b2MJi94Vw5ONDNmQlauZMWg",
+      "id": "PL9tjqljCWvB3t3XAqNYI8qsrr5FGKFEX6",
+      "snippet": {
+        "publishedAt": "2016-07-30T01:49:38Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Rede Decom TV",
+        "description": "Live Canal Transmissão ao vivo Rede Decom TV https://www.youtube.com/c/decomtvs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iYg4WKU35x0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iYg4WKU35x0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYg4WKU35x0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iYg4WKU35x0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iYg4WKU35x0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Rede Decom TV",
+          "description": "Live Canal Transmissão ao vivo Rede Decom TV https://www.youtube.com/c/decomtvs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Q8qOvGsLprjvE5LamaikbwavYik",
+      "id": "PL9tjqljCWvB0BBYkS8pFDR0v5E1wjTUIm",
+      "snippet": {
+        "publishedAt": "2016-05-14T16:29:24Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Curiosidades",
+        "description": "Mega Curiosidades Decom TV\n\nINSCREVA-SE : https://www.youtube.com/c/decomtvs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U5jr5L296Rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U5jr5L296Rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U5jr5L296Rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U5jr5L296Rg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Curiosidades",
+          "description": "Mega Curiosidades Decom TV\n\nINSCREVA-SE : https://www.youtube.com/c/decomtvs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "oRMlPmKX5Vurz_RbT_2ILSAwYEM",
+      "id": "PL9tjqljCWvB3QhfKRGIykwfmY0nzG6Y_Y",
+      "snippet": {
+        "publishedAt": "2016-05-06T15:30:35Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Transmissão ao vivo",
+        "description": "Transmissão ao vivo Decom TV ( LIVE )\nINSCREVA-SE : https://www.youtube.com/c/decomtvs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s-16UiItvlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s-16UiItvlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s-16UiItvlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s-16UiItvlo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s-16UiItvlo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Transmissão ao vivo",
+          "description": "Transmissão ao vivo Decom TV ( LIVE )\nINSCREVA-SE : https://www.youtube.com/c/decomtvs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "lbwpI_36PlPgLj6Wuj-SytStPnM",
+      "id": "PL9tjqljCWvB07v0igCSODpNxDbm5zQI9w",
+      "snippet": {
+        "publishedAt": "2016-02-20T22:28:31Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "DecomTutoriais",
+        "description": "A Playlist de Tutoriais do Canal Decom TV .\nAplicativos Developer Davidsonbpe https://davidsonbpe.blogspot.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M6Aq1R97WBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "DecomTutoriais",
+          "description": "A Playlist de Tutoriais do Canal Decom TV .\nAplicativos Developer Davidsonbpe https://davidsonbpe.blogspot.com/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DCLWEarSRR80f0JqXDnDuFchMRY",
+      "id": "PL9tjqljCWvB2D1f5J74-BPYuZ3EK1NDAS",
+      "snippet": {
+        "publishedAt": "2015-11-11T12:37:59Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Decom Games TV",
+        "description": "Games Developer App https://davidsonbpe.blogspot.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XdIE_LPUaRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XdIE_LPUaRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdIE_LPUaRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XdIE_LPUaRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XdIE_LPUaRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Decom Games TV",
+          "description": "Games Developer App https://davidsonbpe.blogspot.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ynv1Q9IzuQ1JxYZK3zf3VpazZTE",
+      "id": "PL9tjqljCWvB3dF-Zo16jHwaAvCt6uzcGZ",
+      "snippet": {
+        "publishedAt": "2015-07-26T02:14:53Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "Decom TV",
+        "description": "Inscreva-se https://www.youtube.com/decomtvs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JKJsWrtvD14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "Decom TV",
+          "description": "Inscreva-se https://www.youtube.com/decomtvs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "dR_uXgBmaeqM29LGxv5hSLx3ETw",
+      "id": "PL9tjqljCWvB3s_rdJjd6QaA_QdXAeWbtr",
+      "snippet": {
+        "publishedAt": "2015-05-20T17:05:33Z",
+        "channelId": "UCHqvw9v2Fp6o006lUskoigg",
+        "title": "DecomRradio Divulgação",
+        "description": "Com DecomRradio você pode ouvir diversas estações de rádio diretamente de seu computador, Tabletes e Smartphone Grátis .\nhttps://decomrradio.blogspot.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tCMfxT93Cxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tCMfxT93Cxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tCMfxT93Cxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tCMfxT93Cxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tCMfxT93Cxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Decom TV",
+        "localized": {
+          "title": "DecomRradio Divulgação",
+          "description": "Com DecomRradio você pode ouvir diversas estações de rádio diretamente de seu computador, Tabletes e Smartphone Grátis .\nhttps://decomrradio.blogspot.com/"
+        }
+      }
+    }
+  ]
+}

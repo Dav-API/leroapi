@@ -1,22 +1,22 @@
 openapi: 3.0.0
 info:
   version: 2.0.2
-  title: APIs.guru
+  title: APP API VIRTUAL
   description: >
-    Wikipedia for Web APIs. Repository of API specs in OpenAPI format.
+    Wikipédia para APIs da Web. Repositório de especificações de API no formato OpenAPI.
 
 
-    **Warning**: If you want to be notified about changes in advance please join our [Slack channel](https://join.slack.com/t/mermade/shared_invite/zt-g78g7xir-MLE_CTCcXCdfJfG3CJe9qA).
+   **Aviso**: Se você deseja ser notificado sobre as alterações com antecedência, junte-se ao nosso [YOUTUBE channel](https://www.youtube.com/@decomtvs).
 
 
-    Client sample: [[Demo]](https://apis.guru/simple-ui) [[Repo]](https://github.com/APIs-guru/simple-ui)
+    Client sample: [[Demo]](./) [[Repo]](https://github.com/redek-dp)
   contact:
-    name: APIs.guru
-    url: https://APIs.guru
-    email: mike.ralphson@gmail.com
+    name: APP API VIRTUAL
+    url: https://APP.API.VIRTUAL
+    email: APP.API.VIRTUAL@gmail.com
   license:
     name: CC0 1.0
-    url: https://github.com/APIs-guru/openapi-directory#licenses
+    url: https://github.com/redek-dp
   x-logo:
     url: https://apis.guru/branding/logo_vertical.svg
 externalDocs:
@@ -24,25 +24,25 @@ externalDocs:
 security: []
 tags:
   - name: APIs
-    description: Actions relating to APIs in the collection
+    description: Ações relacionadas a APIs na coleção
 paths:
   /list.json:
     get:
       operationId: listAPIs
       tags:
         - APIs
-      summary: List all APIs
+      summary: Listar todas as APIs
       description: >
-        List all APIs in the directory.
+        Liste todas as APIs no diretório.
 
-        Returns links to OpenAPI specification for each API in the directory.
+Retorna links para a especificação OpenAPI para cada API no diretório.
 
-        If API exist in multiple versions `preferred` one is explicitly marked.
+Se a API existir em várias versões 'preferidas', uma será explicitamente marcada.
 
 
-        Some basic info from OpenAPI spec is cached inside each object.
+Algumas informações básicas da especificação OpenAPI são armazenadas em cache dentro de cada objeto.
 
-        This allows to generate some simple views without need to fetch OpenAPI spec for each API.
+Isso permite gerar algumas visualizações simples sem a necessidade de buscar especificações OpenAPI para cada API.
       responses:
         "200":
           description: OK

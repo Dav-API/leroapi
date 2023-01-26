@@ -56,11 +56,11 @@ paths:
   /metrics.json:
     get:
       operationId: getMetrics
-      summary: Get basic metrics
+      summary: Obter métricas básicas
       description: >
-        Some basic metrics for the entire directory.
+        Algumas métricas básicas para todo o diretório.
 
-        Just stunning numbers to put on a front page and are intended purely for WoW effect :)
+        Apenas números impressionantes para colocar na primeira página e destinam-se exclusivamente ao efeito WoW :)
       tags:
         - APIs
       responses:
@@ -77,19 +77,19 @@ components:
   schemas:
     APIs:
       description: |
-        List of API details.
-        It is a JSON object with API IDs(`<provider>[:<service>]`) as keys.
+        Lista de detalhes da API.
+        É um objeto JSON com IDs de API(`<provider>[:<service>]`) as keys.
       type: object
       additionalProperties:
         $ref: "#/components/schemas/API"
       minProperties: 1
       example:
         googleapis.com:drive:
-          added: 2015-02-22T20:00:45.000Z
+          added: 2023-02-22T20:00:45.000Z
           preferred: v3
           versions:
             v2:
-              added: 2015-02-22T20:00:45.000Z
+              added: 2023-02-22T20:00:45.000Z
               info:
                 title: Drive
                 version: v2

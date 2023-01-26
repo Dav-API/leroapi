@@ -6,10 +6,10 @@ info:
     Wikipédia para APIs da Web. Repositório de especificações de API no formato OpenAPI.
 
 
-   **Aviso**: Se você deseja ser notificado sobre as alterações com antecedência, junte-se ao nosso [YOUTUBE channel](https://www.youtube.com/@decomtvs).
+    **Warning**: Se você deseja ser notificado sobre as alterações com antecedência, junte-se ao nosso [YOUTUBE channel](https://www.youtube.com/@decomtvs).
 
 
-    Client sample: [[Demo]](./) [[Repo]](https://github.com/redek-dp)
+    Client sample: [[Demo]](https://github.com/redek-dp) [[Repo]](https://github.com/redek-dp)
   contact:
     name: APP API VIRTUAL
     url: https://APP.API.VIRTUAL
@@ -18,7 +18,7 @@ info:
     name: CC0 1.0
     url: https://github.com/redek-dp
   x-logo:
-    url: https://apis.guru/branding/logo_vertical.svg
+    url: https://raw.githubusercontent.com/redek-dp/serv/master/appst/img/logo.png
 externalDocs:
   url: https://github.com/APIs-guru/openapi-directory/blob/master/API.md
 security: []

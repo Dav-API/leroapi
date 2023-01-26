@@ -91,26 +91,26 @@ components:
             v2:
               added: 2023-02-22T20:00:45.000Z
               info:
-                title: Drive
+                title: leroapi
                 version: v2
                 x-apiClientRegistration:
-                  url: https://console.developers.google.com
+                  url: https://dav-api.github.io/
                 x-logo:
                   url: https://api.apis.guru/v2/cache/logo/https_www.gstatic.com_images_icons_material_product_2x_drive_32dp.png
                 x-origin:
-                  format: google
-                  url: https://www.googleapis.com/discovery/v1/apis/drive/v2/rest
+                  format: leroapi
+                  url: https://dav-api.github.io/leroapi/instagram-receitas.json
                   version: v1
                 x-preferred: false
                 x-providerName: googleapis.com
-                x-serviceName: drive
-              swaggerUrl: https://api.apis.guru/v2/specs/googleapis.com/drive/v2/swagger.json
+                x-serviceName: instagram-receitas
+              swaggerUrl: https://dav-api.github.io/leroapi/instagram-receitas.json
               swaggerYamlUrl: https://api.apis.guru/v2/specs/googleapis.com/drive/v2/swagger.yaml
               updated: 2016-06-17T00:21:44.000Z
             v3:
               added: 2015-12-12T00:25:13.000Z
               info:
-                title: Drive
+                title: leroapi
                 version: v3
                 x-apiClientRegistration:
                   url: https://console.developers.google.com

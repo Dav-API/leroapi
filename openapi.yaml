@@ -33,11 +33,16 @@ paths:
         - APIs
       summary: Listar todas as APIs
       description: >
-        Liste todas as APIs no diretório.
-        Retorna links para a especificação OpenAPI para cada API no diretório.
-        Se a API existir em várias versões 'preferidas', uma será explicitamente marcada.
-        Algumas informações básicas da especificação OpenAPI são armazenadas em cache dentro de cada objeto.
-        Isso permite gerar algumas visualizações simples sem a necessidade de buscar especificações OpenAPI para cada API.
+        List all APIs in the directory.
+
+        Returns links to OpenAPI specification for each API in the directory.
+
+        If API exist in multiple versions `preferred` one is explicitly marked.
+
+
+        Some basic info from OpenAPI spec is cached inside each object.
+
+        This allows to generate some simple views without need to fetch OpenAPI spec for each API.
       responses:
         "200":
           description: OK

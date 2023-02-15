@@ -1,0 +1,190 @@
+﻿{
+    "title": "Novidades Tecnologia",
+    "description": "Descubra e aprenda tudo sobre tecnologia",
+    "generator": "https://dav-api.github.io/leroapi/",
+    "feedUrl": "https://dav-api.github.io/leroapi/v1/feed/tecnologia.json",
+    "pagina": "1",
+
+    "items": [
+        {
+            "id": "0001",
+            "title": "Notebook: Compaq lança modelo com bateria que pode durar até 15h",
+            "pubDate": "2023-02-15 13:15:00",
+            "link": "https://www.tecmundo.com.br/produto/260619-notebook-compaq-lanca-modelo-bateria-durar-15h.htm",
+            "author": "Jean Carlos Foss",
+            "description": "Alerta de produto novo na área! A Compaq, marca de origem norte-americana licenciada no Brasil pela Positivo Tecnologia, anunciou hoje (14) o lançamento de um novo modelo de notebook, chamado Compaq 5000. O item chega como o primeiro do mercado nacional a contar com o Qualcomm Snapdragon 7c de segunda geração e apresenta uma das maiores autonomias de bateria quando comparado a outros modelos.   Posicionado na categoria intermediária de especificações, o Compaq 5000 Snapdragon apresenta tecnologias que são valorizadas também em smartphones. Entre elas, está o ARM, um exemplo de tecnologia eficiente, geralmente utilizada em celulares, para consumo menor de energia. Por ser mais leve e simples, o ARM permite realizar tarefas de forma mais eficiente do que processadores X86, comumente usados em notebooks Leia mais...",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/14/14123539161168.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Produto"
+            ]
+        },
+        {
+            "id": "0002",
+            "title": "Diretor de Sonic Frontiers não descarta novos jogos 2D do ouriço",
+            "pubDate": "2023-02-15 13:00:00",
+            "link": "https://www.tecmundo.com.br/voxel/260609-diretor-sonic-frontiers-nao-descarta-novos-jogos-2d-ourico.htm",
+            "author": "Bruno Magalhães Barbosa",
+            "description": "Sonic Frontiers foi lançado em novembro do ano passado sob a premissa de redefinir os jogos do ouriço, servindo de molde para os próximos lançamentos com o seu conceito de zonas abertas. No entanto, isso não significa que o mascote da Sega não contará com mais jogos 2D como os clássicos, segundo garante o diretor Morio Kishimoto. Nos últimos meses, o diretor responsável por Sonic Frontiers tem se esforçado para coletar feedback e responder aos fãs no Twitter, independente da barreira de idiomas. Uma das perguntas recebidas foi se o ouriço continuará recebendo mais jogos com progressão lateral, citando Sonic the Hedgehog 4como um exemplo Leia mais... ",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/14/14122558975160.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Voxel"
+            ]
+        },
+        {
+            "id": "0003",
+            "title": "Imposto de Renda 2023: prazo para entrega será até 31 de maio",
+            "pubDate": "2023-02-15 12:48:49",
+            "link": "https://www.tecmundo.com.br/mercado/260644-imposto-renda-2023-prazo-entrega-31-maio.htm",
+            "author": "André Luiz Dias Gonçalves",
+            "description": "O Imposto de Renda 2023 terá um prazo de entrega mais amplo, conforme anunciou a Receita Federal na terça-feira (14). Com a mudança, os contribuintes obrigados a efetuar a declaração referente ao ano-base 2022 poderão enviá-la entre os dias 15 de março e 31 de maio. Anteriormente, o envio da documentação começava no primeiro dia útil de março e ia até o fim de abril. Mas durante a pandemia, o prazo foi estendido pelo órgão, como agora, oferecendo mais dias para o preenchimento e a apresentação da declaração do Imposto de Renda Leia mais... ",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/15/15120403562168.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Mercado"
+            ]
+        },
+        {
+            "id": "0004",
+            "title": "'Não use o Telegram', diz chefe do WhatsApp sobre privacidade no app",
+            "pubDate": "2023-02-15 12:35:00",
+            "link": "https://www.tecmundo.com.br/software/260642-nao-use-telegram-diz-chefe-whatsapp.htm",
+            "author": "Karoline Albuquerque",
+            "description": "A crescente rivalidade entre chefe do aplicativo de mensagens da Meta a alfinetar a privacidade do concorrente. Em sua conta pessoal no Twitter, Will Cathcart fez críticas ao outro mensageiro. Citando uma reportagem do portal Wired sobre o Telegram, Cathcart fez um longo fio, começando sobre a criptografia de ponta a ponta, os protocolos e2ee. Entenda a verdade — especialmente antes de usá-lo para algo privado, disse Leia mais... ",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/14/14163842922304.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Software"
+            ]
+        },
+        {
+            "id": "0005",
+            "title": "Bloober Team revela mais um jogo: Project M, em parceria com Draw Distance",
+            "pubDate": "2023-02-15 12:00:00",
+            "link": "https://www.tecmundo.com.br/voxel/260608-bloober-team-revela-jogo-project-m-parceria-draw-distance.htm",
+            "author": "João Gabriel Nogueira",
+            "description": "A Bloober Team foi ao Twitter anunciar ainda mais um jogo em produção sob sua tutela. A pequena produtora polonesa agora totaliza quatro jogos em desenvolvimento ao mesmo tempo, com a revelação de Project M em parceria com a Draw Distance, de Serial Cleaners. Nós estamos trabalhando num novo jogo, diz o tweet, em tradução livre. Por mais de um ano a Bloober Team veio conduzindo trabalhos de pré-produção num título com codinome Project M. Agora o jogo entra na fase de produção, e a Draw Distance (criadores da franquia Serial Cleaner) foi escolhida como seu desenvolvedor Leia mais... ",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/14/14112036026090.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Voxel"
+            ]
+        },
+        {
+            "id": "0006",
+            "title": "Google: Bard, ferramenta de IA, ainda não estava pronta, diz executivo",
+            "pubDate": "2023-02-15 11:30:00",
+            "link": "https://www.tecmundo.com.br/internet/260620-google-bard-ferramenta-ia-ainda-nao-pronta-diz-executivo.htm",
+            "author": "Jean Carlos Foss",
+            "description": "Desde o lançamento do ChatGPT, em novembro de 2022, o mercado tem voltado os olhos fortemente para a área de inteligência artificial. O chatbot criado pela empresa OpenAI é um dos maiores fenômenos da história da internet, conquistando 100 milhões de usuários ativos em apenas dois meses, algo que nenhum outro app conseguiu no mesmo período de tempo. E, como era de se esperar, alguns concorrentes para a plataforma já começaram a surgir, como o Bard, do O , que também é um chatbot de IA, foi apresentado na terça-feira passada (7) pelo Google e prometia bater de frente com o ChatGPT, que têm recebido apoio da Microsoft, uma das principais rivais da companhia. Contudo, a ação promocional para o Bard continha um erro de informação, que foi notado por diversos internautas. Após o fato, as ação das Alphabet Inc. (holding que engloba o Google) caíram drasticamente. Ou seja, o início da nova ferramenta não foi dos melhores.",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/14/14111502456088.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Internet"
+            ]
+        },
+        {
+            "id": "0007",
+            "title": "Corra! Confira os games que estão deixando o Game Pass em fevereiro",
+            "pubDate": "2023-02-15 11:29:34",
+            "link": "https://www.tecmundo.com.br/voxel/260641-corra-confira-games-deixando-game-pass-fevereiro.htm",
+            "author": "Carlos Palmeira",
+            "description": "A Microsoft revelou os títulos que estão saindo da biblioteca do Xbox Game Pass neste mês de fevereiro. Dentre os games estão nomes importantes como Alien Isolation, Dragon Ball FighterZ, Octopath Traveler e Lightning Returns: Final Fantasy XIII.   Confira, abaixo, a lista de games que serão retirados do serviço",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/15/15112708982144.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Voxel"
+            ]
+        },
+        {
+            "id": "0008",
+            "title": "Elon Musk quer definir novo CEO do Twitter até o final de 2023",
+            "pubDate": "2023-02-15 11:25:00",
+            "link": "https://www.tecmundo.com.br/redes-sociais/260640-elon-musk-quer-definir-novo-ceo-twitter.htm",
+            "author": "André Luiz Dias Gonçalves",
+            "description": "planeja encontrar outra pessoa para assumir o cargo de CEO do Twitter até o final de 2023, vaga atualmente ocupada por ele. O tema foi abordado pelo dono da rede social durante a Cúpula Mundial de Governo dos Emirados Árabes Unidos, que ocorre em Dubai, nesta quarta-feira (15).   De acordo com a Bloomberg, o presidente executivo do microblog afirmou que está aguardando o melhor momento para ceder o cargo. E isso só deve acontecer quando ele tiver a certeza de que a empresa, adquirida no final do ano passado , esteja organizada, estável e com a situação financeira saudável Leia mais... ",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/15/15111659585134.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Redes Sociais"
+            ]
+        },
+        {
+            "id": "00010",
+            "title": "Por que os EUA querem impedir compra de fabricante de games Activision Blizzard pela Microsoft",
+            "pubDate": "2023-05-15 11:08:18",
+            "link": "https://www.uol.com.br/tilt/noticias/bbc/2022/12/09/por-que-os-eua-querem-impedir-compra-de-fabricante-de-games-activision-blizzard-pela-microsoft.htm",
+            "author": "uol.com.br",
+            "description": "Os EUA est?o entrando em uma batalha legal com a Microsoft, fabricante do Xbox, para impedir seu plano de comprar a Activision Blizzard, empresa de games por tr?s de t?tulos de sucesso, como Call of Duty Leia mais... ",
+            "enclosure": {
+                "link": "https://conteudo.imguol.com.br/c/noticias/76/2022/12/09/titulos-do-estudio-de-games-blizzard-que-foi-comprada-pela-microsoft-1670586255472_v2_142x100.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "gamer"
+            ]
+        },
+        {
+            "id": "00011",
+            "title": "Elden Ring ganha Jogo do Ano no The Game Awards; veja principais anuncios",
+            "pubDate": "2023-05-16 11:08:18",
+            "link": "https://www.uol.com.br/tilt/noticias/redacao/2022/12/09/elden-ring-ganha-jogo-do-ano-no-the-game-awards-veja-principais-anuncios.htm",
+            "author": "uol.com.br",
+            "description": "Na noite desta quinta-feira (8) aconteceu o The Game Awards, premia?o que  considerada o Oscar dos games por sua relev?ncia na ind?stria dos jogos. Alem de premiar os melhores titulos do ano, o TGA ainda palco para grandes anuncios dos principais estudios, como Capcom, Blizzard Entertainment e Bandai Namco. Leia mais... ",
+            "enclosure": {
+                "link": "https://conteudo.imguol.com.br/c/entretenimento/6a/2022/03/01/elden-ring-1646156460809_v2_142x100.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "gamer"
+            ]
+        },
+        {
+            "id": "00012",
+            "title": "Surto do vírus de Marburg na Guiné Equatorial é registrado pela OMS",
+            "pubDate": "2023-02-15 11:08:18",
+            "link": "https://www.tecmundo.com.br/ciencia/260639-surto-virus-marburg-guine-equatorial-registrado-oms.htm",
+            "author": "Jorge Marin",
+            "description": "A Organização Mundial de Saúde (OMS) realizou terça-feira (14) uma reunião de urgência para estabelecer prioridade de pesquisa situação epidemiológica atípica Leia mais... ",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/15/15111208661131.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Ciência"
+            ]
+        },
+        {
+            "id": "00010",
+            "title": "Netflix desativa botão de reprodução aleatória 'Surpreenda-me'",
+            "pubDate": "2023-02-15 11:05:05",
+            "link": "https://www.tecmundo.com.br/internet/260635-netflix-desativa-botao-reproducao-aleatoria-surpreenda-me.htm",
+            "author": "Giovanna Fantinato",
+            "description": "A  Netflix  anunciou na última terça-feira (14) que desativou o botão 'Surpreenda-me' da plataforma. Em nota, a plataforma afirma que o recurso foi descontinuado em janeiro pela baixa adesão dos assinantes.   A empresa explica que os usuários tendem a acessar o catálogo com algum título ou gênero de filmes e séries já em mente, diminuindo o apelo da ferramenta.Continuaremos a explorar outras maneiras de dar aos membros mais opções e maneiras de descobrir o conteúdo que desejam assistir, afirmou o porta-voz da Netflix em comunicado Leia mais... ",
+            "enclosure": {
+                "link": "https://img.ibxk.com.br/2023/02/15/15103247327100.jpg",
+                "type": "image/jpeg"
+            },
+            "categories": [
+                "Internet"
+            ]
+        }
+    ]
+}

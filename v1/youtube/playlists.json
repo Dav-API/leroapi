@@ -1,4 +1,10 @@
 {
+  "title": "api youtube playlist",
+  "description": "playlist Posts and videos Decom TV",
+  "generator": "https://dav-api.github.io/leroapi/",
+  "feedUrl": "https://dav-api.github.io/leroapi/v1/youtube/playlist.json",
+  "pagina": "1",
+
   "items": [
     {
       "kind": "youtube#playlist",

@@ -3,7 +3,7 @@
     "title": "#receita hashtag",
     "description": "6.6m Posts receitas hashtag",
     "generator": "https://dav-api.github.io/leroapi/",
-    "feedUrl": "https://dav-api.github.io/leroapi/instagram-receitas.json",
+    "feedUrl": "https://dav-api.github.io/leroapi/v1/receitas/2.json",
     "pagina": "2",
     "items": [
         {

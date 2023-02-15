@@ -4,6 +4,7 @@
     "description": "6.6m Posts and videos receitas hashtag",
     "generator": "https://dav-api.github.io/leroapi/",
     "feedUrl": "https://dav-api.github.io/leroapi/instagram-receita.json",
+    "pagina": "1",
     "items": [
         {
             "id": "kTfF4DAUTbGbIYRj01",

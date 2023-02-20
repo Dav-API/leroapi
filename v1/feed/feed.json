@@ -1,114 +1,93 @@
 {
-   "data": [
+   "id": "a9FGi3Y5ZORYaO6j",
+   "title": "News - YouTube",
+   "generator": "https://dav-api.github.io/leroapi/",
+   "feedUrl": "https://dav-api.github.io/leroapi/v1/receitas/1.json",
+   "pagina": "1",
+   "items": [
       {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "Introducing Windows XP 2018 Edition (Concept)\nhttps://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg",
-         "created_time": "2018-06-02T00:12:38+0000",
-         "id": "129689837120720_1719026481520373"
+         "id": "E9JjPRO2IIKjliHw01",
+         "title": "Russia claims gains in eastern Ukraine as NATO defense ministers meet in Brussels",
+         "url": "https://www.youtube.com/watch?v=ffxglW5yhQE",
+         "audio": null,
+         "author": "YouTube",
+         "hostname": "youtube.com",
+         "date": "2023-02-15T00:00:00.000Z",
+         "enclosure": {
+            "url": "https://img.youtube.com/vi/ffxglW5yhQE/mqdefault.jpg",
+            "type": "image/jpeg"
+         },
+         "hash": "ad45553ca4931e846574725ab3d15657",
+         "createdAt": "2023-02-15T19:45:05.000Z",
+         "position": null
       },
       {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "#Espetacular https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg",
-         "created_time": "2018-05-21T17:45:59+0000",
-         "id": "129689837120720_1708010049288683"
+         "id": "wLEnMAmBJ9Z4etSG02",
+         "title": "Judge calls out white supremacist roots of Buffalo massacre",
+         "description": "Erie County Judge Susan Eagan sentenced Buffalo shooter Payton Gendron to life without the possibility of parole on Feb. 15. Read more: https://wapo.st/3xvbW...",
+         "url": "https://www.youtube.com/watch?v=Mn399A9YJLI",
+         "audio": null,
+         "author": "YouTube",
+         "hostname": "youtube.com",
+         "date": "2023-02-15T00:00:00.000Z",
+         "enclosure": {
+            "url": "https://img.youtube.com/vi/Mn399A9YJLI/mqdefault.jpg",
+            "type": "image/jpeg"
+         },
+         "hash": "3994baa49e8e3583be6e8c4fc2a0426b",
+         "createdAt": "2023-02-15T19:30:04.000Z",
+         "position": null
       },
       {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "TUTORIAIS S\u00d3 NA DECOM TV https://www.youtube.com/c/decomtvs",
-         "created_time": "2018-05-19T16:19:30+0000",
-         "id": "129689837120720_1705955696160785"
+         "id": "Amj4yQZ8d9rAFqcX03",
+         "title": "NATO defense ministers meeting in Brussels as fighting underway in eastern Ukraine",
+         "description": "Russia claimed today its troops had broken through two Ukrainian lines on the eastern front. Ukrainian officials have not confirmed Russia’s claims. This com...",
+         "url": "https://www.youtube.com/watch?v=3x0OcEZFsgc",
+         "audio": null,
+         "author": "YouTube",
+         "hostname": "youtube.com",
+         "date": "2023-02-15T00:00:00.000Z",
+         "enclosure": {
+            "url": "https://img.youtube.com/vi/3x0OcEZFsgc/mqdefault.jpg",
+            "type": "image/jpeg"
+         },
+         "hash": "815569a53c809c90211008495dd46f41",
+         "createdAt": "2023-02-15T19:30:03.000Z",
+         "position": null
       },
       {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "M\u00c1QUINAS T\u00c3O POTENTES QUE VOC\u00ca N\u00c3O ACREDITAR\u00c1 QUE REALMENTE EXISTEM https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg",
-         "created_time": "2018-05-06T15:13:45+0000",
-         "id": "129689837120720_1693456084077413"
+         "id": "xrLIKbNQ1D2enZG04",
+         "title": "LIVE: Kansas City celebrates Chiefs Super Bowl WIN!",
+         "description": "The team is taking a victory lap around the downtown core of Kansas City after their Super Bowl win in Glendale, AZ last sunday.Live coverage from KCTV-5 in ...",
+         "url": "https://www.youtube.com/watch?v=MHy0S4oMFN0",
+         "audio": null,
+         "author": "YouTube",
+         "hostname": "youtube.com",
+         "date": "2023-02-15T00:00:00.000Z",
+         "enclosure": {
+            "url": "https://img.youtube.com/vi/MHy0S4oMFN0/mqdefault.jpg",
+            "type": "image/jpeg"
+         },
+         "hash": "47e9a33845127f29b39022caeebb6f34",
+         "createdAt": "2023-02-15T19:29:53.000Z",
+         "position": null
       },
       {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "Como #Criar #Aplicativo #Mobile de List Radio no #AppInventor\n#Tutorial Completo : https://www.youtube.com/watch?v=Bacatb-OdXk",
-         "created_time": "2018-05-01T13:02:58+0000",
-         "id": "129689837120720_1688215277934827"
-      },
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "O GULOSO https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg",
-         "created_time": "2018-04-29T22:23:45+0000",
-         "id": "129689837120720_1686770804745941"
-      },
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "Um dos maiores Estrada de Ferro Vit\u00f3ria a Minas  #VALE https://www.youtube.com/c/decomtvs",
-         "created_time": "2018-04-19T14:01:21+0000",
-         "id": "129689837120720_1676839145739107"
-      },
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "Como #transformar #papel #alum\u00ednio em uma #bola de #metal https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg",
-         "created_time": "2018-04-18T02:13:46+0000",
-         "id": "129689837120720_1675456322544056"
-      },
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "Nem Tudo o Que V\u00ea \u00e9 Real!! A #Ilus\u00e3o De \u00f3tica Que V\u00e3i #Confundir Sua #Mente https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg",
-         "created_time": "2018-04-18T00:28:45+0000",
-         "id": "129689837120720_1675383249218030"
-      },
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "7 #Truques Que Todo #Mundo Deveria Saber https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg",
-         "created_time": "2018-04-18T00:16:20+0000",
-         "id": "129689837120720_1675375439218811"
-      },
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "EM BREVE NOVOS TUTORIAIS NA DECOM TV https://www.youtube.com/c/decomtvs",
-         "created_time": "2018-04-17T22:48:06+0000",
-         "id": "129689837120720_1675330059223349"
-      },
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "ESSA FERRAMENTA TEM QUE TER EM CASA - S\u00c9RIE OS CRIATIVOS\nhttps://www.youtube.com/watch?v=eZR7qkV_7ys",
-         "created_time": "2018-02-01T22:44:28+0000",
-         "id": "129689837120720_1595360193887003"
-      },
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "Como Fazer Uma Garrafa De Chocolate Coca Cola\nhttps://www.youtube.com/watch?v=K7E4yMxK58U",
-         "created_time": "2018-01-30T13:20:06+0000",
-         "id": "129689837120720_1592935587462797"
-      },
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "Com este #tutorial vamos #Aprender a #Criar #Aplicativo #Menu #lateral #Sidebar #Responsivo em #HTML5 #CSS #JAVASCRIPT e fazer Build #Cocoon.io .",
-         "created_time": "2018-01-29T20:30:30+0000",
-         "id": "129689837120720_1592195830870106"
-      },
-      
-      {
-         "picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "full_picture": "https://raw.githubusercontent.com/redek-dp/host/main/web/icon/512.png",
-         "message": "Gigantes a Diesel Super Motores Antigos #001",
-         "created_time": "2018-01-13T12:27:15+0000",
-         "id": "129689837120720_1576213895801633"
+         "id": "XiY7udue9e1N2O5H05",
+         "title": "Family of Buffalo Racist Massacre Victim Lunges at Shooter as He Gets Life in Prison ",
+         "description": "These are the top stories on Feb. 15, 2023.",
+         "url": "https://www.youtube.com/watch?v=uYLcmpvopd4",
+         "audio": null,
+         "author": "YouTube",
+         "hostname": "youtube.com",
+         "date": "2023-02-15T00:00:00.000Z",
+         "enclosure": {
+            "url": "https://img.youtube.com/vi/uYLcmpvopd4/mqdefault.jpg",
+            "type": "image/jpeg"
+         },
+         "hash": "241e833807d55788e2e249dfd98094cd",
+         "createdAt": "2023-02-15T19:29:52.000Z",
+         "position": null
       }
-   ],
-   "paging": {
-      "previous": "https://dl.dropboxusercontent.com/s/738b4e3g5w18148/feed.json",
-      "next": "https://dl.dropboxusercontent.com/s/738b4e3g5w18148/feed.json"
-   }
+   ]
 }
